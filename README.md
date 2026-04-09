@@ -46,4 +46,4 @@ The source code is proprietary and is not publicly available to protect the clie
 ---
 
 ### 👨‍💻 Developed By
-**Prasad Chinthaka** *Full-Stack Developer | Tecpins Web Solutions* [LinkedIn](https://www.linkedin.com/) | [Website](https://tecpinswebsolutions.lk/)
+**Prasad Chinthaka** *Full-Stack Developer | Tecpins Web Solutions* [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/prasad-chinthaka-7a0a87171/)) | [Website](https://tecpinswebsolutions.lk/)
