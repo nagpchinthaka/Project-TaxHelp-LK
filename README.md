@@ -31,7 +31,7 @@
 
 | Home Page | Service Details |
 |---|---|
-| ![Home Page](https://via.placeholder.com/400x250?text=Insert+Home+Screenshot+Here) | ![Services](https://via.placeholder.com/400x250?text=Insert+Service+Screenshot+Here) |
+| ![Home Page](https://github.com/nagpchinthaka/Project-TaxHelp-LK/blob/47692330db1a79e5e63c3f563949b55a4c701ad2/1765322639540.jpg) | ![Services](https://via.placeholder.com/400x250?text=Insert+Service+Screenshot+Here) |
 
 | Contact & Lead Gen | Mobile View |
 |---|---|
