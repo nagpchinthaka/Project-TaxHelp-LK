@@ -29,13 +29,13 @@
 ## 📸 Project Gallery
 > *Below are snapshots of the platform's interface and user flow.*
 
-| Home Page | Service Details |
+| Home Page |
 |---|---|
-| ![Home Page](https://github.com/nagpchinthaka/Project-TaxHelp-LK/blob/47692330db1a79e5e63c3f563949b55a4c701ad2/1765322639540.jpg) | ![Services](https://via.placeholder.com/400x250?text=Insert+Service+Screenshot+Here) |
+| ![Home Page](https://github.com/nagpchinthaka/Project-TaxHelp-LK/blob/47692330db1a79e5e63c3f563949b55a4c701ad2/1765322639540.jpg) |
 
-| Contact & Lead Gen | Mobile View |
+| Full Page |
 |---|---|
-| ![Contact Form](https://via.placeholder.com/400x250?text=Insert+Contact+Form+Screenshot+Here) | ![Mobile View](https://via.placeholder.com/400x250?text=Insert+Mobile+View+Screenshot+Here) |
+| ![Contact Form]([https://via.placeholder.com/400x250?text=Insert+Contact+Form+Screenshot+Here](https://github.com/nagpchinthaka/Project-TaxHelp-LK/blob/f43144e95b62769ea057652fef33c7fdcc5e2046/1765322707908.jpg)) |
 
 ---
 
